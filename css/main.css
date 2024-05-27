@@ -3,7 +3,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("https://raw.githubusercontent.com/rodasmarcos/MeliyAgus/main/images/aym.jpeg") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/rodasmarcos/Salva/main/images/FINAL.jpeg") no-repeat center center;
   background-size: cover;
 
 
@@ -50,7 +50,7 @@ body {
 
 /* Nav Bar Style */
 .ww-nav-bar .heart {
-  fill: #69A297;
+  fill: #7c7428;
   position: relative;
   top: 2px;
   width: 40px;
@@ -123,7 +123,7 @@ body {
 
 /* RSVP Style */
 .ww-rsvp-detail {
-  background: url("https://raw.githubusercontent.com/rodasmarcos/MeliyAgus/main/images/First.jpeg") no-repeat center center  ;
+  background: url("https://raw.githubusercontent.com/rodasmarcos/Salva/main/images/First.jpeg") no-repeat center center  ;
   background-size: cover;
   min-height: 500px;
   position: relative; }
@@ -171,7 +171,10 @@ body {
 
 /* Common Style */
 .ww-title {
-  font-family: "Great Vibes", cursive; }
+  font-family: "Marykate", cursive; 
+  color: #4e4a18; 
+}
+  
 
 .ww-section {
   padding: 0px 0; }
